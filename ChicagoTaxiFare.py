@@ -68,10 +68,14 @@ def plot_correlation_matrix(df: pd.DataFrame) -> None:
         fmt=".2f",
         cmap="coolwarm"
     )
+    
     plt.title("Correlation Matrix")
     plt.tight_layout()
     plt.savefig("CorrelationMatrix.png")
     plt.show()
+
+plot_scatter_matrix(training_df, ["FARE", "TRIP_MILES", "TRIP_SECONDS"])
+plot_correlation_matrix(training_df)
 
 # %%
 #Model Creation
