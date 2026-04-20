@@ -120,7 +120,6 @@ Open `ChicagoTaxiFare.ipynb` in Jupyter or VS Code and run all cells.
 - Using a dataclass to manage hyperparameters cleanly
 - Comparing single-feature vs multi-feature models
 - Visualising a model's prediction surface in 3D
-- Saving plots as images for display on GitHub
 
 ---
 
