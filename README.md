@@ -125,4 +125,4 @@ Open `ChicagoTaxiFare.ipynb` in Jupyter or VS Code and run all cells.
 
 ## Author
 
-Built by Godfred Mills as part of a self-directed machine learning study project.
+Built by Godfred Mills.
